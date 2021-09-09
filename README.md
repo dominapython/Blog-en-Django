@@ -1,2 +1,2 @@
-# Blog-en-Django
+# Blog en Django
 Django
